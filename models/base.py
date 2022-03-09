@@ -9,7 +9,7 @@ Regression and Classification frameworks based on scikit-learn models with extra
 """
 import sys
 sys.path.append('../')
-from backend.decorators import valida
+#from backend.decorators import valida
 import warnings
 warnings.filterwarnings('ignore')
 
